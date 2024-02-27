@@ -1,0 +1,6 @@
+[submodule "server/bankless-dispatch"]
+	path = server/bankless-dispatch
+	url = https://github.com/coinmastersguild/bankless-dispatch
+[submodule "apps/nobank-driver"]
+	path = apps/nobank-driver
+	url = https://github.com/coinmastersguild/nobank-driver
